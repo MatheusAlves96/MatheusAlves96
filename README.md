@@ -23,8 +23,8 @@
   <img align="center" alt="MatheusAlves96-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MatheusAlves96-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MatheusAlves96-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="MatheusAlves96-Flask" height="30" width="40" src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png">
-  <img align="center" alt="MatheusAlves96-PostgreSQL" height="30" width="40" src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png">
+  <img align="center" alt="MatheusAlves96-Flask" height="30" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-svg-vector.svg">
+  <img align="center" alt="MatheusAlves96-PostgreSQL" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/512/postgresql+plain+wordmark-1324760555518154961.png">
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
