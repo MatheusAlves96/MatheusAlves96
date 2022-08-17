@@ -25,6 +25,7 @@
   <img align="center" alt="MatheusAlves96-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MatheusAlves96-Flask" height="30" width="40" src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png">
   <img align="center" alt="MatheusAlves96-PostgreSQL" height="30" width="40" src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
 ##
@@ -34,7 +35,7 @@
   <a href = "mailto:matheusalves965@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/mapheusalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- ![Snake animation](.svg)
+ ![Snake animation](https://github.com/MatheusAlves96/ApresentacaoMatheus/blob/main/assets/grid_cobra.svg)
   
 </div>
 
