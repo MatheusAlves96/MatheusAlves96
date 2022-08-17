@@ -17,15 +17,21 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MatheusAlves96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlves96&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<style>
+    .iconsdev:hover{
+        transform: scale(1.1);
+        text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+    }
+    </style>
 
 <div style="display: inline_block"><br>
   <h5>Experiência com:</h5>
-  <img align="center" alt="MatheusAlves96-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MatheusAlves96-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MatheusAlves96-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="MatheusAlves96-Flask" height="30" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-svg-vector.svg">
-  <img align="center" alt="MatheusAlves96-PostgreSQL" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/512/postgresql+plain+wordmark-1324760555518154961.png">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" class='iconsdev' alt="MatheusAlves96-Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" class='iconsdev' alt="MatheusAlves96-Js" title="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" class='iconsdev' alt="MatheusAlves96-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" class='iconsdev' alt="MatheusAlves96-Flask" title="Flask" height="30" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-svg-vector.svg">
+  <img align="center" class='iconsdev' alt="MatheusAlves96-PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/512/postgresql+plain+wordmark-1324760555518154961.png">
+  <img align="center" class='iconsdev' alt="MatheusAlves96-nodejs" title="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
 ##
